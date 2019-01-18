@@ -1,0 +1,8 @@
+C:/Users/Papo Gonzalez/source/repos/ConsoleApp1/EntidadesCarrera/obj/Debug/EntidadesCarrera.csprojAssemblyReference.cache
+C:/Users/Papo Gonzalez/source/repos/ConsoleApp1/EntidadesCarrera/obj/Debug/EntidadesCarrera.csproj.CoreCompileInputs.cache
+/Users/anselcorona2/Downloads/JuegoAplicada1/EntidadesCarrera/obj/Debug/EntidadesCarrera.csprojAssemblyReference.cache
+/Users/anselcorona2/Downloads/JuegoAplicada1/EntidadesCarrera/obj/Debug/EntidadesCarrera.csproj.CoreCompileInputs.cache
+/Users/anselcorona2/Downloads/JuegoAplicada1/EntidadesCarrera/bin/Debug/EntidadesCarrera.dll
+/Users/anselcorona2/Downloads/JuegoAplicada1/EntidadesCarrera/bin/Debug/EntidadesCarrera.pdb
+/Users/anselcorona2/Downloads/JuegoAplicada1/EntidadesCarrera/obj/Debug/EntidadesCarrera.dll
+/Users/anselcorona2/Downloads/JuegoAplicada1/EntidadesCarrera/obj/Debug/EntidadesCarrera.pdb
