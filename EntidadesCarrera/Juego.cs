@@ -63,8 +63,34 @@ namespace EntidadesCarrera
                 case eEstadoJuego.Iniciado:
                     MostrarMenu();
                     break;
+                case eEstadoJuego.Apostando:
+                    MostrarMarco();
+                    Console.SetCursorPosition(7, 5);
+                    break;
             }
         }
+
+        public void MostrarMarco()
+        {
+            Console.WriteLine("==============================================================================");
+            Console.WriteLine("|                                                                            |");
+            Console.WriteLine("|                                                                            |");
+            Console.WriteLine("|                                                                            |");
+            Console.WriteLine("|                                                                            |");
+            Console.WriteLine("|    ---------------------------------------------------------------------   |");
+            Console.WriteLine("|    ---------------------------------------------------------------------   |");
+            Console.WriteLine("|    ---------------------------------------------------------------------   |");
+            Console.WriteLine("|    ---------------------------------------------------------------------   |");
+            Console.WriteLine("|    ---------------------------------------------------------------------   |");
+            Console.WriteLine("|    ---------------------------------------------------------------------   |");
+            Console.WriteLine("|    ---------------------------------------------------------------------   |");
+            Console.WriteLine("|    ---------------------------------------------------------------------   |");
+            Console.WriteLine("|                                                                            |");
+            Console.WriteLine("|                                                                            |");
+            Console.WriteLine("|                                                                            |");
+            Console.WriteLine("==============================================================================");
+        }
+
         public void Finalizar() {
             _procesoCaptura.Abort();
             _procesoCaptura.Join();
